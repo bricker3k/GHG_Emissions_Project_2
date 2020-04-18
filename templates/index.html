@@ -1,0 +1,135 @@
+<!-- Landing Page, #0 -->
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!--<link rel="stylesheet" type="text/css" href="style.css"> -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}" />
+
+    <link href="https://fonts.googleapis.com/css?family=Special+Elite&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css"
+        href="https://fonts.googleapis.com/css?family=Inconsolata|Playfair+Display|Rubik">
+    <title>GHG - Landing Page</title>
+</head>
+<body>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script>
+        var emissions_data = {{ emissions_info | tojson}};
+        console.log(emissions_data);
+    </script>
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+    <div class="navigation">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" style="background-color: #CADD84;" href="/">GHG Emissions</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            PLOTS
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="Page_1">Percent Change</a>
+                            <a class="dropdown-item" href="Page_2">Map</a>
+                            <a class="dropdown-item" href="Page_3">Line Chart</a>
+
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="data">DATA</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div id="wrapper">
+        <div id="letters">
+            <div class="g">G</div>
+            <div class="l">L</div>
+            <div class="o">O</div>
+            <div class="b">B</div>
+            <div class="a">A</div>
+            <div class="l">L&nbsp;</div>
+            <div class="e">&nbsp;E</div>
+            <div class="m">M</div>
+            <div class="i">I</div>
+            <div class="s">S</div>
+            <div class="s">S</div>
+            <div class="i">I</div>
+            <div class="o">O</div>
+            <div class="n">N</div>
+            <div class="s">S</div>
+
+            <br />
+            <div class="line"></div>
+
+            <p class="description">
+                <!-- A simple library to take care of complex&nbsp;CSS&nbsp;animations. -->
+            </p>
+        </div>
+        <div class="scroll-overlay"></div>
+    </div>
+    <div class="links">
+        <div class="quickstart">
+            <!-- $ npm install --save choreographer-js -->
+        </div>
+        <!-- <a href="https://github.com/christinecha/choreographer-js"> --->
+        <!--<button class="reference">documentation</button>
+        </a> -->
+    </div>
+    <div class="scroll-down">
+        <p>scroll down</p>
+        <div class="down-arrow"></div>
+    </div>
+
+
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-13 col-md-12">
+                <div class="box" style="padding-bottom: 30px;">
+                    <h3 class="title"> Greenhouse Gas Emissions </h3>
+                    <hr>
+                    <img src="/static/carbon.jpg" class="vizualization rounded float-left"
+                        alt="Max Temperature Graph">
+                    <p>The purpose of this visualization project was to analyze the change in global emissions between
+                        2007-2017, to see if there was an effort to lower the output of carbon emissions. 
+                        To perform this analysis, data from the Organisation for Economic Co-operation and Development(OECD) was collected. 
+                        The OECD is an intergovernmental economic organisation with 36 member countries founded in 1961 to stimulate economic progress and world trade.</p>
+                    <p>After assembling the dataset, Python, Javascript, Leaflet, and Flask were used to create the visualizations.
+                        Factors looked at include: percent change in emissions, greenhouse gas emissions per capita, and the country names associated with the OECD. This site provides
+                        the source data and visualizations created as part of the analysis, as well a brief explanation and descriptions of
+                        trends witnessed.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <!--<script src="choreographer.min.js"></script> -->
+    <script src="{{ url_for('static', filename='choreographer.min.js') }}"> </script>
+    <!--<script src="index.js"></script> -->
+    <script src="{{ url_for('static', filename='index.js') }}"> </script>
+    <!--<script type="text/javascript" src="index.js"></script>-->
+    <footer style="padding-bottom: 4px;"> Group Project #2 - Chelsea Snedden, Morgan Bricker, Ben Reiff </footer>
+</body>
+
+</html>
