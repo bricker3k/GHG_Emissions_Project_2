@@ -1,0 +1,1486 @@
+Index,Country_Code,Country_Name,Value,Year
+1,AGO,Angola,0.5,2007
+2,AGO,Angola,0.5,2008
+3,AGO,Angola,0.6,2009
+4,AGO,Angola,0.6,2010
+5,AGO,Angola,0.7,2011
+6,AGO,Angola,0.7,2012
+7,AGO,Angola,0.7,2013
+8,AGO,Angola,0.8,2014
+9,AGO,Angola,0.8,2015
+10,AGO,Angola,0.7,2016
+11,AGO,Angola,0.6,2017
+12,ALB,Albania,1.3,2007
+13,ALB,Albania,1.3,2008
+14,ALB,Albania,1.3,2009
+15,ALB,Albania,1.3,2010
+16,ALB,Albania,1.4,2011
+17,ALB,Albania,1.2,2012
+18,ALB,Albania,1.3,2013
+19,ALB,Albania,1.4,2014
+20,ALB,Albania,1.3,2015
+21,ALB,Albania,1.3,2016
+22,ALB,Albania,1.5,2017
+23,ARE,United Arab Emirates,20.5,2007
+24,ARE,United Arab Emirates,21.3,2008
+25,ARE,United Arab Emirates,19.4,2009
+26,ARE,United Arab Emirates,18.7,2010
+27,ARE,United Arab Emirates,18.2,2011
+28,ARE,United Arab Emirates,18.9,2012
+29,ARE,United Arab Emirates,19.6,2013
+30,ARE,United Arab Emirates,19.4,2014
+31,ARE,United Arab Emirates,20.4,2015
+32,ARE,United Arab Emirates,20.7,2016
+33,ARE,United Arab Emirates,20.9,2017
+34,ARG,Argentina,4.1,2007
+35,ARG,Argentina,4.4,2008
+36,ARG,Argentina,4.1,2009
+37,ARG,Argentina,4.2,2010
+38,ARG,Argentina,4.4,2011
+39,ARG,Argentina,4.4,2012
+40,ARG,Argentina,4.3,2013
+41,ARG,Argentina,4.3,2014
+42,ARG,Argentina,4.4,2015
+43,ARG,Argentina,4.3,2016
+44,ARG,Argentina,4.1,2017
+45,ARM,Armenia,1.6,2007
+46,ARM,Armenia,1.8,2008
+47,ARM,Armenia,1.5,2009
+48,ARM,Armenia,1.4,2010
+49,ARM,Armenia,1.6,2011
+50,ARM,Armenia,1.9,2012
+51,ARM,Armenia,1.8,2013
+52,ARM,Armenia,1.8,2014
+53,ARM,Armenia,1.6,2015
+54,ARM,Armenia,1.7,2016
+55,ARM,Armenia,1.8,2017
+56,AUS,Australia,17.9,2007
+57,AUS,Australia,17.7,2008
+58,AUS,Australia,17.8,2009
+59,AUS,Australia,17.4,2010
+60,AUS,Australia,17.1,2011
+61,AUS,Australia,16.8,2012
+62,AUS,Australia,16.2,2013
+63,AUS,Australia,15.6,2014
+64,AUS,Australia,15.7,2015
+65,AUS,Australia,15.8,2016
+66,AUS,Australia,15.6,2017
+67,AUT,Austria,8.4,2007
+68,AUT,Austria,8.3,2008
+69,AUT,Austria,7.5,2009
+70,AUT,Austria,8.2,2010
+71,AUT,Austria,8,2011
+72,AUT,Austria,7.6,2012
+73,AUT,Austria,7.6,2013
+74,AUT,Austria,7.2,2014
+75,AUT,Austria,7.2,2015
+76,AUT,Austria,7.1,2016
+77,AUT,Austria,7.4,2017
+78,AZE,Azerbaijan,3.1,2007
+79,AZE,Azerbaijan,3.3,2008
+80,AZE,Azerbaijan,2.7,2009
+81,AZE,Azerbaijan,2.6,2010
+82,AZE,Azerbaijan,2.9,2011
+83,AZE,Azerbaijan,3.1,2012
+84,AZE,Azerbaijan,3.1,2013
+85,AZE,Azerbaijan,3.2,2014
+86,AZE,Azerbaijan,3.2,2015
+87,AZE,Azerbaijan,3.2,2016
+88,AZE,Azerbaijan,3.1,2017
+89,BEL,Belgium,9.6,2007
+90,BEL,Belgium,9.7,2008
+91,BEL,Belgium,9,2009
+92,BEL,Belgium,9.5,2010
+93,BEL,Belgium,8.4,2011
+94,BEL,Belgium,8.3,2012
+95,BEL,Belgium,8.4,2013
+96,BEL,Belgium,7.8,2014
+97,BEL,Belgium,8.3,2015
+98,BEL,Belgium,8.1,2016
+99,BEL,Belgium,8,2017
+100,BEN,Benin,0.4,2007
+101,BEN,Benin,0.4,2008
+102,BEN,Benin,0.5,2009
+103,BEN,Benin,0.5,2010
+104,BEN,Benin,0.5,2011
+105,BEN,Benin,0.4,2012
+106,BEN,Benin,0.4,2013
+107,BEN,Benin,0.5,2014
+108,BEN,Benin,0.5,2015
+109,BEN,Benin,0.6,2016
+110,BEN,Benin,0.6,2017
+111,BGD,Bangladesh,0.3,2007
+112,BGD,Bangladesh,0.3,2008
+113,BGD,Bangladesh,0.3,2009
+114,BGD,Bangladesh,0.3,2010
+115,BGD,Bangladesh,0.3,2011
+116,BGD,Bangladesh,0.4,2012
+117,BGD,Bangladesh,0.4,2013
+118,BGD,Bangladesh,0.4,2014
+119,BGD,Bangladesh,0.4,2015
+120,BGD,Bangladesh,0.4,2016
+121,BGD,Bangladesh,0.5,2017
+122,BGR,Bulgaria,6.8,2007
+123,BGR,Bulgaria,6.5,2008
+124,BGR,Bulgaria,5.7,2009
+125,BGR,Bulgaria,6,2010
+126,BGR,Bulgaria,6.7,2011
+127,BGR,Bulgaria,6.1,2012
+128,BGR,Bulgaria,5.4,2013
+129,BGR,Bulgaria,5.8,2014
+130,BGR,Bulgaria,6.1,2015
+131,BGR,Bulgaria,5.7,2016
+132,BGR,Bulgaria,6.1,2017
+133,BHR,Bahrain,22.1,2007
+134,BHR,Bahrain,22.1,2008
+135,BHR,Bahrain,20.7,2009
+136,BHR,Bahrain,20.6,2010
+137,BHR,Bahrain,20,2011
+138,BHR,Bahrain,20.1,2012
+139,BHR,Bahrain,21.5,2013
+140,BHR,Bahrain,22.2,2014
+141,BHR,Bahrain,21.9,2015
+142,BHR,Bahrain,20.8,2016
+143,BHR,Bahrain,20,2017
+144,BIH,Bosnia and Herzegovina,4.9,2007
+145,BIH,Bosnia and Herzegovina,5.4,2008
+146,BIH,Bosnia and Herzegovina,5.4,2009
+147,BIH,Bosnia and Herzegovina,5.5,2010
+148,BIH,Bosnia and Herzegovina,6.3,2011
+149,BIH,Bosnia and Herzegovina,5.9,2012
+150,BIH,Bosnia and Herzegovina,6,2013
+151,BIH,Bosnia and Herzegovina,5.4,2014
+152,BIH,Bosnia and Herzegovina,5.5,2015
+153,BIH,Bosnia and Herzegovina,6.3,2016
+154,BIH,Bosnia and Herzegovina,6.4,2017
+155,BLR,Belarus,5.8,2007
+156,BLR,Belarus,6.1,2008
+157,BLR,Belarus,5.8,2009
+158,BLR,Belarus,6.3,2010
+159,BLR,Belarus,6,2011
+160,BLR,Belarus,6.1,2012
+161,BLR,Belarus,6.1,2013
+162,BLR,Belarus,6,2014
+163,BLR,Belarus,5.5,2015
+164,BLR,Belarus,5.6,2016
+165,BLR,Belarus,5.7,2017
+166,BOL,Bolivia,1.1,2007
+167,BOL,Bolivia,1.2,2008
+168,BOL,Bolivia,1.3,2009
+169,BOL,Bolivia,1.4,2010
+170,BOL,Bolivia,1.5,2011
+171,BOL,Bolivia,1.6,2012
+172,BOL,Bolivia,1.6,2013
+173,BOL,Bolivia,1.7,2014
+174,BOL,Bolivia,1.7,2015
+175,BOL,Bolivia,1.8,2016
+176,BOL,Bolivia,2,2017
+177,BRA,Brazil,1.7,2007
+178,BRA,Brazil,1.8,2008
+179,BRA,Brazil,1.7,2009
+180,BRA,Brazil,1.9,2010
+181,BRA,Brazil,2,2011
+182,BRA,Brazil,2.1,2012
+183,BRA,Brazil,2.2,2013
+184,BRA,Brazil,2.3,2014
+185,BRA,Brazil,2.2,2015
+186,BRA,Brazil,2,2016
+187,BRA,Brazil,2,2017
+188,BRN,Brunei,18.3,2007
+189,BRN,Brunei,19.1,2008
+190,BRN,Brunei,19.4,2009
+191,BRN,Brunei,17.6,2010
+192,BRN,Brunei,17.8,2011
+193,BRN,Brunei,17.4,2012
+194,BRN,Brunei,16.9,2013
+195,BRN,Brunei,16.3,2014
+196,BRN,Brunei,14.3,2015
+197,BRN,Brunei,15.2,2016
+198,BRN,Brunei,15.6,2017
+199,BWA,Botswana,2.3,2007
+200,BWA,Botswana,2.3,2008
+201,BWA,Botswana,2.1,2009
+202,BWA,Botswana,1.6,2010
+203,BWA,Botswana,1.9,2011
+204,BWA,Botswana,2.4,2012
+205,BWA,Botswana,2.5,2013
+206,BWA,Botswana,3.2,2014
+207,BWA,Botswana,3.2,2015
+208,BWA,Botswana,3.1,2016
+209,BWA,Botswana,3.4,2017
+210,CAN,Canada,17.1,2007
+211,CAN,Canada,16.3,2008
+212,CAN,Canada,15.3,2009
+213,CAN,Canada,15.5,2010
+214,CAN,Canada,15.8,2011
+215,CAN,Canada,15.5,2012
+216,CAN,Canada,15.6,2013
+217,CAN,Canada,15.6,2014
+218,CAN,Canada,15.6,2015
+219,CAN,Canada,15.2,2016
+220,CAN,Canada,15,2017
+221,CHE,Switzerland,5.5,2007
+222,CHE,Switzerland,5.6,2008
+223,CHE,Switzerland,5.4,2009
+224,CHE,Switzerland,5.5,2010
+225,CHE,Switzerland,5,2011
+226,CHE,Switzerland,5.1,2012
+227,CHE,Switzerland,5.2,2013
+228,CHE,Switzerland,4.6,2014
+229,CHE,Switzerland,4.5,2015
+230,CHE,Switzerland,4.5,2016
+231,CHE,Switzerland,4.4,2017
+232,CHL,Chile,3.8,2007
+233,CHL,Chile,4,2008
+234,CHL,Chile,3.8,2009
+235,CHL,Chile,4,2010
+236,CHL,Chile,4.4,2011
+237,CHL,Chile,4.4,2012
+238,CHL,Chile,4.6,2013
+239,CHL,Chile,4.2,2014
+240,CHL,Chile,4.5,2015
+241,CHL,Chile,4.7,2016
+242,CHL,Chile,4.6,2017
+243,CHN,China,4.9,2007
+244,CHN,China,5,2008
+245,CHN,China,5.4,2009
+246,CHN,China,5.9,2010
+247,CHN,China,6.4,2011
+248,CHN,China,6.5,2012
+249,CHN,China,6.8,2013
+250,CHN,China,6.7,2014
+251,CHN,China,6.6,2015
+252,CHN,China,6.6,2016
+253,CHN,China,6.7,2017
+254,CIV,Cote d'Ivoire,0.3,2007
+255,CIV,Cote d'Ivoire,0.3,2008
+256,CIV,Cote d'Ivoire,0.3,2009
+257,CIV,Cote d'Ivoire,0.3,2010
+258,CIV,Cote d'Ivoire,0.3,2011
+259,CIV,Cote d'Ivoire,0.4,2012
+260,CIV,Cote d'Ivoire,0.4,2013
+261,CIV,Cote d'Ivoire,0.4,2014
+262,CIV,Cote d'Ivoire,0.4,2015
+263,CIV,Cote d'Ivoire,0.4,2016
+264,CIV,Cote d'Ivoire,0.4,2017
+265,CMR,Cameroon,0.2,2007
+266,CMR,Cameroon,0.2,2008
+267,CMR,Cameroon,0.2,2009
+268,CMR,Cameroon,0.3,2010
+269,CMR,Cameroon,0.2,2011
+270,CMR,Cameroon,0.2,2012
+271,CMR,Cameroon,0.2,2013
+272,CMR,Cameroon,0.3,2014
+273,CMR,Cameroon,0.3,2015
+274,CMR,Cameroon,0.3,2016
+275,CMR,Cameroon,0.3,2017
+276,COG,Congo,0.3,2007
+277,COG,Congo,0.3,2008
+278,COG,Congo,0.4,2009
+279,COG,Congo,0.4,2010
+280,COG,Congo,0.5,2011
+281,COG,Congo,0.5,2012
+282,COG,Congo,0.5,2013
+283,COG,Congo,0.5,2014
+284,COG,Congo,0.6,2015
+285,COG,Congo,0.6,2016
+286,COG,Congo,0.5,2017
+287,COL,Colombia,1.2,2007
+288,COL,Colombia,1.2,2008
+289,COL,Colombia,1.3,2009
+290,COL,Colombia,1.3,2010
+291,COL,Colombia,1.4,2011
+292,COL,Colombia,1.4,2012
+293,COL,Colombia,1.6,2013
+294,COL,Colombia,1.6,2014
+295,COL,Colombia,1.6,2015
+296,COL,Colombia,1.8,2016
+297,COL,Colombia,1.5,2017
+298,CRI,Costa Rica,1.5,2007
+299,CRI,Costa Rica,1.5,2008
+300,CRI,Costa Rica,1.4,2009
+301,CRI,Costa Rica,1.5,2010
+302,CRI,Costa Rica,1.5,2011
+303,CRI,Costa Rica,1.5,2012
+304,CRI,Costa Rica,1.5,2013
+305,CRI,Costa Rica,1.5,2014
+306,CRI,Costa Rica,1.4,2015
+307,CRI,Costa Rica,1.5,2016
+308,CRI,Costa Rica,1.5,2017
+309,CUB,Cuba,2.3,2007
+310,CUB,Cuba,2.3,2008
+311,CUB,Cuba,2.3,2009
+312,CUB,Cuba,2.6,2010
+313,CUB,Cuba,2.4,2011
+314,CUB,Cuba,2.5,2012
+315,CUB,Cuba,2.3,2013
+316,CUB,Cuba,2.3,2014
+317,CUB,Cuba,2.3,2015
+318,CUB,Cuba,2.4,2016
+319,CUB,Cuba,2.3,2017
+320,CYP,Cyprus,9.8,2007
+321,CYP,Cyprus,9.8,2008
+322,CYP,Cyprus,9.4,2009
+323,CYP,Cyprus,8.9,2010
+324,CYP,Cyprus,8.3,2011
+325,CYP,Cyprus,7.6,2012
+326,CYP,Cyprus,6.5,2013
+327,CYP,Cyprus,6.7,2014
+328,CYP,Cyprus,7,2015
+329,CYP,Cyprus,7.4,2016
+330,CYP,Cyprus,7.4,2017
+331,CZE,Czech Republic,11.8,2007
+332,CZE,Czech Republic,11.2,2008
+333,CZE,Czech Republic,10.5,2009
+334,CZE,Czech Republic,10.7,2010
+335,CZE,Czech Republic,10.4,2011
+336,CZE,Czech Republic,10.1,2012
+337,CZE,Czech Republic,9.6,2013
+338,CZE,Czech Republic,9.3,2014
+339,CZE,Czech Republic,9.4,2015
+340,CZE,Czech Republic,9.6,2016
+341,CZE,Czech Republic,9.6,2017
+342,DEU,Germany,9.5,2007
+343,DEU,Germany,9.6,2008
+344,DEU,Germany,8.9,2009
+345,DEU,Germany,9.5,2010
+346,DEU,Germany,9.1,2011
+347,DEU,Germany,9.3,2012
+348,DEU,Germany,9.5,2013
+349,DEU,Germany,8.9,2014
+350,DEU,Germany,8.9,2015
+351,DEU,Germany,8.9,2016
+352,DEU,Germany,8.7,2017
+353,DNK,Denmark,9.5,2007
+354,DNK,Denmark,8.9,2008
+355,DNK,Denmark,8.5,2009
+356,DNK,Denmark,8.5,2010
+357,DNK,Denmark,7.6,2011
+358,DNK,Denmark,6.6,2012
+359,DNK,Denmark,6.9,2013
+360,DNK,Denmark,6.1,2014
+361,DNK,Denmark,5.6,2015
+362,DNK,Denmark,5.8,2016
+363,DNK,Denmark,5.4,2017
+364,DOM,Dominican Republic,2,2007
+365,DOM,Dominican Republic,2,2008
+366,DOM,Dominican Republic,1.9,2009
+367,DOM,Dominican Republic,1.9,2010
+368,DOM,Dominican Republic,1.9,2011
+369,DOM,Dominican Republic,2,2012
+370,DOM,Dominican Republic,1.9,2013
+371,DOM,Dominican Republic,1.9,2014
+372,DOM,Dominican Republic,2,2015
+373,DOM,Dominican Republic,2.1,2016
+374,DOM,Dominican Republic,2,2017
+375,DZA,Algeria,2.5,2007
+376,DZA,Algeria,2.5,2008
+377,DZA,Algeria,2.7,2009
+378,DZA,Algeria,2.6,2010
+379,DZA,Algeria,2.8,2011
+380,DZA,Algeria,3,2012
+381,DZA,Algeria,3,2013
+382,DZA,Algeria,3.2,2014
+383,DZA,Algeria,3.3,2015
+384,DZA,Algeria,3.1,2016
+385,DZA,Algeria,3.2,2017
+386,ECU,Ecuador,1.9,2007
+387,ECU,Ecuador,1.8,2008
+388,ECU,Ecuador,2,2009
+389,ECU,Ecuador,2.2,2010
+390,ECU,Ecuador,2.2,2011
+391,ECU,Ecuador,2.2,2012
+392,ECU,Ecuador,2.3,2013
+393,ECU,Ecuador,2.4,2014
+394,ECU,Ecuador,2.3,2015
+395,ECU,Ecuador,2.2,2016
+396,ECU,Ecuador,2.1,2017
+397,EGY,Egypt,2.1,2007
+398,EGY,Egypt,2.1,2008
+399,EGY,Egypt,2.1,2009
+400,EGY,Egypt,2.1,2010
+401,EGY,Egypt,2.1,2011
+402,EGY,Egypt,2.2,2012
+403,EGY,Egypt,2.1,2013
+404,EGY,Egypt,2.1,2014
+405,EGY,Egypt,2.1,2015
+406,EGY,Egypt,2.1,2016
+407,EGY,Egypt,2.1,2017
+408,ERI,Eritrea,0.1,2007
+409,ERI,Eritrea,0.1,2008
+410,ERI,Eritrea,0.1,2009
+411,ERI,Eritrea,0.1,2010
+412,ERI,Eritrea,0.1,2011
+413,ERI,Eritrea,0.1,2012
+414,ERI,Eritrea,0.1,2013
+415,ERI,Eritrea,0.1,2014
+416,ERI,Eritrea,0.1,2015
+417,ERI,Eritrea,0.1,2016
+418,ERI,Eritrea,0.1,2017
+419,ESP,Spain,7.5,2007
+420,ESP,Spain,6.7,2008
+421,ESP,Spain,6,2009
+422,ESP,Spain,5.6,2010
+423,ESP,Spain,5.7,2011
+424,ESP,Spain,5.6,2012
+425,ESP,Spain,5,2013
+426,ESP,Spain,5,2014
+427,ESP,Spain,5.3,2015
+428,ESP,Spain,5.1,2016
+429,ESP,Spain,5.4,2017
+430,EST,Estonia,14.3,2007
+431,EST,Estonia,13.2,2008
+432,EST,Estonia,11,2009
+433,EST,Estonia,13.9,2010
+434,EST,Estonia,13.3,2011
+435,EST,Estonia,12.4,2012
+436,EST,Estonia,14.2,2013
+437,EST,Estonia,13.2,2014
+438,EST,Estonia,11.5,2015
+439,EST,Estonia,11.7,2016
+440,EST,Estonia,12.1,2017
+441,ETH,Ethiopia,0.1,2007
+442,ETH,Ethiopia,0.1,2008
+443,ETH,Ethiopia,0.1,2009
+444,ETH,Ethiopia,0.1,2010
+445,ETH,Ethiopia,0.1,2011
+446,ETH,Ethiopia,0.1,2012
+447,ETH,Ethiopia,0.1,2013
+448,ETH,Ethiopia,0.1,2014
+449,ETH,Ethiopia,0.1,2015
+450,ETH,Ethiopia,0.1,2016
+451,ETH,Ethiopia,0.1,2017
+452,FIN,Finland,12.2,2007
+453,FIN,Finland,10.5,2008
+454,FIN,Finland,10.1,2009
+455,FIN,Finland,11.6,2010
+456,FIN,Finland,10.1,2011
+457,FIN,Finland,9,2012
+458,FIN,Finland,9.1,2013
+459,FIN,Finland,8.4,2014
+460,FIN,Finland,7.7,2015
+461,FIN,Finland,8.2,2016
+462,FIN,Finland,7.7,2017
+463,FRA,France,5.5,2007
+464,FRA,France,5.4,2008
+465,FRA,France,5.2,2009
+466,FRA,France,5.2,2010
+467,FRA,France,4.9,2011
+468,FRA,France,5,2012
+469,FRA,France,4.9,2013
+470,FRA,France,4.4,2014
+471,FRA,France,4.5,2015
+472,FRA,France,4.5,2016
+473,FRA,France,4.6,2017
+474,GAB,Gabon,1.3,2007
+475,GAB,Gabon,1.3,2008
+476,GAB,Gabon,1.3,2009
+477,GAB,Gabon,1.6,2010
+478,GAB,Gabon,1.8,2011
+479,GAB,Gabon,1.8,2012
+480,GAB,Gabon,1.8,2013
+481,GAB,Gabon,1.7,2014
+482,GAB,Gabon,1.7,2015
+483,GAB,Gabon,1.7,2016
+484,GAB,Gabon,1.7,2017
+485,GBR,United Kingdom,8.5,2007
+486,GBR,United Kingdom,8.2,2008
+487,GBR,United Kingdom,7.4,2009
+488,GBR,United Kingdom,7.6,2010
+489,GBR,United Kingdom,6.9,2011
+490,GBR,United Kingdom,7.2,2012
+491,GBR,United Kingdom,7,2013
+492,GBR,United Kingdom,6.3,2014
+493,GBR,United Kingdom,6.1,2015
+494,GBR,United Kingdom,5.7,2016
+495,GBR,United Kingdom,5.4,2017
+496,GEO,Georgia,1.3,2007
+497,GEO,Georgia,1.2,2008
+498,GEO,Georgia,1.3,2009
+499,GEO,Georgia,1.3,2010
+500,GEO,Georgia,1.5,2011
+501,GEO,Georgia,1.7,2012
+502,GEO,Georgia,1.8,2013
+503,GEO,Georgia,2.1,2014
+504,GEO,Georgia,2.3,2015
+505,GEO,Georgia,2.4,2016
+506,GEO,Georgia,2.3,2017
+507,GHA,Ghana,0.4,2007
+508,GHA,Ghana,0.3,2008
+509,GHA,Ghana,0.4,2009
+510,GHA,Ghana,0.4,2010
+511,GHA,Ghana,0.4,2011
+512,GHA,Ghana,0.5,2012
+513,GHA,Ghana,0.5,2013
+514,GHA,Ghana,0.5,2014
+515,GHA,Ghana,0.5,2015
+516,GHA,Ghana,0.5,2016
+517,GHA,Ghana,0.5,2017
+518,GRC,Greece,8.9,2007
+519,GRC,Greece,8.5,2008
+520,GRC,Greece,8.1,2009
+521,GRC,Greece,7.5,2010
+522,GRC,Greece,7.4,2011
+523,GRC,Greece,7,2012
+524,GRC,Greece,6.3,2013
+525,GRC,Greece,6,2014
+526,GRC,Greece,6,2015
+527,GRC,Greece,5.9,2016
+528,GRC,Greece,5.9,2017
+529,GTM,Guatemala,0.8,2007
+530,GTM,Guatemala,0.7,2008
+531,GTM,Guatemala,0.8,2009
+532,GTM,Guatemala,0.7,2010
+533,GTM,Guatemala,0.7,2011
+534,GTM,Guatemala,0.7,2012
+535,GTM,Guatemala,0.8,2013
+536,GTM,Guatemala,0.8,2014
+537,GTM,Guatemala,0.9,2015
+538,GTM,Guatemala,1,2016
+539,GTM,Guatemala,0.9,2017
+540,HKG,Hong Kong,6.4,2007
+541,HKG,Hong Kong,6.2,2008
+542,HKG,Hong Kong,6.6,2009
+543,HKG,Hong Kong,6,2010
+544,HKG,Hong Kong,6.5,2011
+545,HKG,Hong Kong,6.3,2012
+546,HKG,Hong Kong,6.4,2013
+547,HKG,Hong Kong,6.6,2014
+548,HKG,Hong Kong,6,2015
+549,HKG,Hong Kong,6.1,2016
+550,HKG,Hong Kong,6,2017
+551,HND,Honduras,1.1,2007
+552,HND,Honduras,1,2008
+553,HND,Honduras,0.9,2009
+554,HND,Honduras,0.9,2010
+555,HND,Honduras,1,2011
+556,HND,Honduras,1,2012
+557,HND,Honduras,1,2013
+558,HND,Honduras,1,2014
+559,HND,Honduras,1.1,2015
+560,HND,Honduras,1,2016
+561,HND,Honduras,1,2017
+562,HRV,Croatia,4.8,2007
+563,HRV,Croatia,4.5,2008
+564,HRV,Croatia,4.3,2009
+565,HRV,Croatia,4.1,2010
+566,HRV,Croatia,4.2,2011
+567,HRV,Croatia,3.8,2012
+568,HRV,Croatia,3.7,2013
+569,HRV,Croatia,3.6,2014
+570,HRV,Croatia,3.7,2015
+571,HRV,Croatia,3.8,2016
+572,HRV,Croatia,3.9,2017
+573,HTI,Haiti,0.2,2007
+574,HTI,Haiti,0.2,2008
+575,HTI,Haiti,0.2,2009
+576,HTI,Haiti,0.2,2010
+577,HTI,Haiti,0.2,2011
+578,HTI,Haiti,0.2,2012
+579,HTI,Haiti,0.2,2013
+580,HTI,Haiti,0.3,2014
+581,HTI,Haiti,0.3,2015
+582,HTI,Haiti,0.3,2016
+583,HTI,Haiti,0.3,2017
+584,HUN,Hungary,5.2,2007
+585,HUN,Hungary,5.2,2008
+586,HUN,Hungary,4.7,2009
+587,HUN,Hungary,4.7,2010
+588,HUN,Hungary,4.6,2011
+589,HUN,Hungary,4.3,2012
+590,HUN,Hungary,4.1,2013
+591,HUN,Hungary,4.1,2014
+592,HUN,Hungary,4.3,2015
+593,HUN,Hungary,4.5,2016
+594,HUN,Hungary,4.7,2017
+595,IDN,Indonesia,1.5,2007
+596,IDN,Indonesia,1.5,2008
+597,IDN,Indonesia,1.5,2009
+598,IDN,Indonesia,1.5,2010
+599,IDN,Indonesia,1.6,2011
+600,IDN,Indonesia,1.7,2012
+601,IDN,Indonesia,1.7,2013
+602,IDN,Indonesia,1.8,2014
+603,IDN,Indonesia,1.8,2015
+604,IDN,Indonesia,1.7,2016
+605,IDN,Indonesia,1.9,2017
+606,IND,India,1.1,2007
+607,IND,India,1.1,2008
+608,IND,India,1.2,2009
+609,IND,India,1.3,2010
+610,IND,India,1.3,2011
+611,IND,India,1.4,2012
+612,IND,India,1.5,2013
+613,IND,India,1.6,2014
+614,IND,India,1.5,2015
+615,IND,India,1.6,2016
+616,IND,India,1.6,2017
+617,IRL,Ireland,10.1,2007
+618,IRL,Ireland,9.8,2008
+619,IRL,Ireland,8.7,2009
+620,IRL,Ireland,8.7,2010
+621,IRL,Ireland,7.7,2011
+622,IRL,Ireland,7.8,2012
+623,IRL,Ireland,7.5,2013
+624,IRL,Ireland,7.3,2014
+625,IRL,Ireland,7.5,2015
+626,IRL,Ireland,7.8,2016
+627,IRL,Ireland,7.4,2017
+628,IRN,Iran,6.7,2007
+629,IRN,Iran,6.7,2008
+630,IRN,Iran,6.8,2009
+631,IRN,Iran,6.7,2010
+632,IRN,Iran,6.7,2011
+633,IRN,Iran,6.7,2012
+634,IRN,Iran,6.9,2013
+635,IRN,Iran,7.1,2014
+636,IRN,Iran,7,2015
+637,IRN,Iran,6.9,2016
+638,IRN,Iran,7,2017
+639,IRQ,Iraq,2.2,2007
+640,IRQ,Iraq,2.5,2008
+641,IRQ,Iraq,3.1,2009
+642,IRQ,Iraq,3.4,2010
+643,IRQ,Iraq,3.5,2011
+644,IRQ,Iraq,3.9,2012
+645,IRQ,Iraq,4,2013
+646,IRQ,Iraq,4,2014
+647,IRQ,Iraq,3.6,2015
+648,IRQ,Iraq,3.8,2016
+649,IRQ,Iraq,3.7,2017
+650,ISL,Iceland,7.5,2007
+651,ISL,Iceland,6.7,2008
+652,ISL,Iceland,6.5,2009
+653,ISL,Iceland,6.1,2010
+654,ISL,Iceland,5.9,2011
+655,ISL,Iceland,5.8,2012
+656,ISL,Iceland,6.3,2013
+657,ISL,Iceland,6.3,2014
+658,ISL,Iceland,6.2,2015
+659,ISL,Iceland,6.2,2016
+660,ISL,Iceland,6.3,2017
+661,ISR,Israel,8.9,2007
+662,ISR,Israel,8.8,2008
+663,ISR,Israel,8.5,2009
+664,ISR,Israel,9,2010
+665,ISR,Israel,8.7,2011
+666,ISR,Israel,9.3,2012
+667,ISR,Israel,8.1,2013
+668,ISR,Israel,7.6,2014
+669,ISR,Israel,7.6,2015
+670,ISR,Israel,7.4,2016
+671,ISR,Israel,7.3,2017
+672,ITA,Italy,7.5,2007
+673,ITA,Italy,7.2,2008
+674,ITA,Italy,6.4,2009
+675,ITA,Italy,6.6,2010
+676,ITA,Italy,6.4,2011
+677,ITA,Italy,6.1,2012
+678,ITA,Italy,5.6,2013
+679,ITA,Italy,5.3,2014
+680,ITA,Italy,5.4,2015
+681,ITA,Italy,5.4,2016
+682,ITA,Italy,5.3,2017
+683,JAM,Jamaica,4.2,2007
+684,JAM,Jamaica,3.4,2008
+685,JAM,Jamaica,2.6,2009
+686,JAM,Jamaica,2.5,2010
+687,JAM,Jamaica,2.5,2011
+688,JAM,Jamaica,2.4,2012
+689,JAM,Jamaica,2.6,2013
+690,JAM,Jamaica,2.5,2014
+691,JAM,Jamaica,2.4,2015
+692,JAM,Jamaica,2.6,2016
+693,JAM,Jamaica,2.4,2017
+694,JOR,Jordan,3.1,2007
+695,JOR,Jordan,2.9,2008
+696,JOR,Jordan,2.8,2009
+697,JOR,Jordan,2.6,2010
+698,JOR,Jordan,2.6,2011
+699,JOR,Jordan,2.8,2012
+700,JOR,Jordan,2.7,2013
+701,JOR,Jordan,2.7,2014
+702,JOR,Jordan,2.6,2015
+703,JOR,Jordan,2.5,2016
+704,JOR,Jordan,2.6,2017
+705,JPN,Japan,9.3,2007
+706,JPN,Japan,8.8,2008
+707,JPN,Japan,8.4,2009
+708,JPN,Japan,8.8,2010
+709,JPN,Japan,9.3,2011
+710,JPN,Japan,9.6,2012
+711,JPN,Japan,9.7,2013
+712,JPN,Japan,9.4,2014
+713,JPN,Japan,9.1,2015
+714,JPN,Japan,9,2016
+715,JPN,Japan,8.9,2017
+716,KAZ,Kazakhstan,12.1,2007
+717,KAZ,Kazakhstan,14.7,2008
+718,KAZ,Kazakhstan,12.6,2009
+719,KAZ,Kazakhstan,13.5,2010
+720,KAZ,Kazakhstan,14.2,2011
+721,KAZ,Kazakhstan,13.9,2012
+722,KAZ,Kazakhstan,14.6,2013
+723,KAZ,Kazakhstan,13.3,2014
+724,KAZ,Kazakhstan,14,2015
+725,KAZ,Kazakhstan,14.3,2016
+726,KAZ,Kazakhstan,14.2,2017
+727,KEN,Kenya,0.2,2007
+728,KEN,Kenya,0.2,2008
+729,KEN,Kenya,0.3,2009
+730,KEN,Kenya,0.3,2010
+731,KEN,Kenya,0.3,2011
+732,KEN,Kenya,0.2,2012
+733,KEN,Kenya,0.3,2013
+734,KEN,Kenya,0.3,2014
+735,KEN,Kenya,0.3,2015
+736,KEN,Kenya,0.3,2016
+737,KEN,Kenya,0.3,2017
+738,KGZ,Kyrgyzstan,1.1,2007
+739,KGZ,Kyrgyzstan,1.3,2008
+740,KGZ,Kyrgyzstan,1.2,2009
+741,KGZ,Kyrgyzstan,1.1,2010
+742,KGZ,Kyrgyzstan,1.3,2011
+743,KGZ,Kyrgyzstan,1.7,2012
+744,KGZ,Kyrgyzstan,1.5,2013
+745,KGZ,Kyrgyzstan,1.5,2014
+746,KGZ,Kyrgyzstan,1.7,2015
+747,KGZ,Kyrgyzstan,1.5,2016
+748,KGZ,Kyrgyzstan,1.4,2017
+749,KHM,Cambodia,0.3,2007
+750,KHM,Cambodia,0.3,2008
+751,KHM,Cambodia,0.3,2009
+752,KHM,Cambodia,0.3,2010
+753,KHM,Cambodia,0.3,2011
+754,KHM,Cambodia,0.3,2012
+755,KHM,Cambodia,0.3,2013
+756,KHM,Cambodia,0.4,2014
+757,KHM,Cambodia,0.5,2015
+758,KHM,Cambodia,0.6,2016
+759,KHM,Cambodia,0.7,2017
+760,KOR,South Korea,9.8,2007
+761,KOR,South Korea,10,2008
+762,KOR,South Korea,10.2,2009
+763,KOR,South Korea,11.1,2010
+764,KOR,South Korea,11.5,2011
+765,KOR,South Korea,11.5,2012
+766,KOR,South Korea,11.4,2013
+767,KOR,South Korea,11.1,2014
+768,KOR,South Korea,11.4,2015
+769,KOR,South Korea,11.5,2016
+770,KOR,South Korea,11.7,2017
+771,KWT,Kuwait,27,2007
+772,KWT,Kuwait,27,2008
+773,KWT,Kuwait,27.8,2009
+774,KWT,Kuwait,25.7,2010
+775,KWT,Kuwait,24.5,2011
+776,KWT,Kuwait,22.8,2012
+777,KWT,Kuwait,23.9,2013
+778,KWT,Kuwait,21.7,2014
+779,KWT,Kuwait,23.3,2015
+780,KWT,Kuwait,23,2016
+781,KWT,Kuwait,21.6,2017
+782,LBN,Lebanon,2.9,2007
+783,LBN,Lebanon,3.9,2008
+784,LBN,Lebanon,4.6,2009
+785,LBN,Lebanon,4.2,2010
+786,LBN,Lebanon,4.1,2011
+787,LBN,Lebanon,4.3,2012
+788,LBN,Lebanon,3.9,2013
+789,LBN,Lebanon,4,2014
+790,LBN,Lebanon,4.2,2015
+791,LBN,Lebanon,4.2,2016
+792,LBN,Lebanon,4.4,2017
+793,LBY,Libya,6.5,2007
+794,LBY,Libya,7,2008
+795,LBY,Libya,7.4,2009
+796,LBY,Libya,7.8,2010
+797,LBY,Libya,5.6,2011
+798,LBY,Libya,7.2,2012
+799,LBY,Libya,7.8,2013
+800,LBY,Libya,7.7,2014
+801,LBY,Libya,6.9,2015
+802,LBY,Libya,6.5,2016
+803,LBY,Libya,6.5,2017
+804,LKA,Sri Lanka,0.7,2007
+805,LKA,Sri Lanka,0.6,2008
+806,LKA,Sri Lanka,0.6,2009
+807,LKA,Sri Lanka,0.6,2010
+808,LKA,Sri Lanka,0.7,2011
+809,LKA,Sri Lanka,0.8,2012
+810,LKA,Sri Lanka,0.7,2013
+811,LKA,Sri Lanka,0.8,2014
+812,LKA,Sri Lanka,0.9,2015
+813,LKA,Sri Lanka,1,2016
+814,LKA,Sri Lanka,1.1,2017
+815,LTU,Lithuania,3.9,2007
+816,LTU,Lithuania,3.9,2008
+817,LTU,Lithuania,3.6,2009
+818,LTU,Lithuania,4,2010
+819,LTU,Lithuania,3.8,2011
+820,LTU,Lithuania,3.9,2012
+821,LTU,Lithuania,3.7,2013
+822,LTU,Lithuania,3.6,2014
+823,LTU,Lithuania,3.6,2015
+824,LTU,Lithuania,3.7,2016
+825,LTU,Lithuania,3.8,2017
+826,LUX,Luxembourg,22.3,2007
+827,LUX,Luxembourg,21.8,2008
+828,LUX,Luxembourg,20.3,2009
+829,LUX,Luxembourg,21,2010
+830,LUX,Luxembourg,20.3,2011
+831,LUX,Luxembourg,19.4,2012
+832,LUX,Luxembourg,17.9,2013
+833,LUX,Luxembourg,16.6,2014
+834,LUX,Luxembourg,15.5,2015
+835,LUX,Luxembourg,14.6,2016
+836,LUX,Luxembourg,14.5,2017
+837,LVA,Latvia,3.8,2007
+838,LVA,Latvia,3.6,2008
+839,LVA,Latvia,3.4,2009
+840,LVA,Latvia,3.9,2010
+841,LVA,Latvia,3.6,2011
+842,LVA,Latvia,3.4,2012
+843,LVA,Latvia,3.4,2013
+844,LVA,Latvia,3.4,2014
+845,LVA,Latvia,3.5,2015
+846,LVA,Latvia,3.5,2016
+847,LVA,Latvia,3.4,2017
+848,MAR,Morocco,1.3,2007
+849,MAR,Morocco,1.4,2008
+850,MAR,Morocco,1.3,2009
+851,MAR,Morocco,1.4,2010
+852,MAR,Morocco,1.5,2011
+853,MAR,Morocco,1.6,2012
+854,MAR,Morocco,1.5,2013
+855,MAR,Morocco,1.6,2014
+856,MAR,Morocco,1.6,2015
+857,MAR,Morocco,1.6,2016
+858,MAR,Morocco,1.6,2017
+859,MDA,Moldova,2.1,2007
+860,MDA,Moldova,2.1,2008
+861,MDA,Moldova,2,2009
+862,MDA,Moldova,2.2,2010
+863,MDA,Moldova,2.2,2011
+864,MDA,Moldova,2.2,2012
+865,MDA,Moldova,1.9,2013
+866,MDA,Moldova,2,2014
+867,MDA,Moldova,2.1,2015
+868,MDA,Moldova,2.2,2016
+869,MDA,Moldova,2.1,2017
+870,MEX,Mexico,4,2007
+871,MEX,Mexico,3.9,2008
+872,MEX,Mexico,3.8,2009
+873,MEX,Mexico,3.9,2010
+874,MEX,Mexico,4,2011
+875,MEX,Mexico,3.9,2012
+876,MEX,Mexico,3.8,2013
+877,MEX,Mexico,3.6,2014
+878,MEX,Mexico,3.7,2015
+879,MEX,Mexico,3.7,2016
+880,MEX,Mexico,3.6,2017
+881,MLT,Malta,6.7,2007
+882,MLT,Malta,6.6,2008
+883,MLT,Malta,6.1,2009
+884,MLT,Malta,6.2,2010
+885,MLT,Malta,6.2,2011
+886,MLT,Malta,6.5,2012
+887,MLT,Malta,5.6,2013
+888,MLT,Malta,5.4,2014
+889,MLT,Malta,3.7,2015
+890,MLT,Malta,3,2016
+891,MLT,Malta,3.3,2017
+892,MMR,Myanmar,0.2,2007
+893,MMR,Myanmar,0.2,2008
+894,MMR,Myanmar,0.1,2009
+895,MMR,Myanmar,0.2,2010
+896,MMR,Myanmar,0.2,2011
+897,MMR,Myanmar,0.2,2012
+898,MMR,Myanmar,0.3,2013
+899,MMR,Myanmar,0.3,2014
+900,MMR,Myanmar,0.4,2015
+901,MMR,Myanmar,0.4,2016
+902,MMR,Myanmar,0.6,2017
+903,MNE,Montenegro,3.4,2007
+904,MNE,Montenegro,4.4,2008
+905,MNE,Montenegro,2.8,2009
+906,MNE,Montenegro,4.2,2010
+907,MNE,Montenegro,4.1,2011
+908,MNE,Montenegro,3.8,2012
+909,MNE,Montenegro,3.7,2013
+910,MNE,Montenegro,3.6,2014
+911,MNE,Montenegro,3.8,2015
+912,MNE,Montenegro,3.4,2016
+913,MNE,Montenegro,3.5,2017
+914,MNG,Mongolia,5,2007
+915,MNG,Mongolia,4.9,2008
+916,MNG,Mongolia,5.1,2009
+917,MNG,Mongolia,5.2,2010
+918,MNG,Mongolia,5.6,2011
+919,MNG,Mongolia,6,2012
+920,MNG,Mongolia,6.4,2013
+921,MNG,Mongolia,6.1,2014
+922,MNG,Mongolia,5.8,2015
+923,MNG,Mongolia,5.9,2016
+924,MNG,Mongolia,6.3,2017
+925,MOZ,Mozambique,0.1,2007
+926,MOZ,Mozambique,0.1,2008
+927,MOZ,Mozambique,0.1,2009
+928,MOZ,Mozambique,0.1,2010
+929,MOZ,Mozambique,0.1,2011
+930,MOZ,Mozambique,0.1,2012
+931,MOZ,Mozambique,0.1,2013
+932,MOZ,Mozambique,0.2,2014
+933,MOZ,Mozambique,0.2,2015
+934,MOZ,Mozambique,0.3,2016
+935,MOZ,Mozambique,0.3,2017
+936,MYS,Malaysia,6.7,2007
+937,MYS,Malaysia,7,2008
+938,MYS,Malaysia,6.2,2009
+939,MYS,Malaysia,6.8,2010
+940,MYS,Malaysia,6.7,2011
+941,MYS,Malaysia,6.6,2012
+942,MYS,Malaysia,7,2013
+943,MYS,Malaysia,7.3,2014
+944,MYS,Malaysia,7.2,2015
+945,MYS,Malaysia,6.9,2016
+946,MYS,Malaysia,6.7,2017
+947,NAM,Namibia,1.2,2007
+948,NAM,Namibia,1.4,2008
+949,NAM,Namibia,1.4,2009
+950,NAM,Namibia,1.4,2010
+951,NAM,Namibia,1.4,2011
+952,NAM,Namibia,1.4,2012
+953,NAM,Namibia,1.5,2013
+954,NAM,Namibia,1.5,2014
+955,NAM,Namibia,1.6,2015
+956,NAM,Namibia,1.6,2016
+957,NAM,Namibia,1.6,2017
+958,NER,Niger,0.1,2007
+959,NER,Niger,0.1,2008
+960,NER,Niger,0.1,2009
+961,NER,Niger,0.1,2010
+962,NER,Niger,0.1,2011
+963,NER,Niger,0.1,2012
+964,NER,Niger,0.1,2013
+965,NER,Niger,0.1,2014
+966,NER,Niger,0.1,2015
+967,NER,Niger,0.1,2016
+968,NER,Niger,0.1,2017
+969,NGA,Nigeria,0.3,2007
+970,NGA,Nigeria,0.4,2008
+971,NGA,Nigeria,0.3,2009
+972,NGA,Nigeria,0.3,2010
+973,NGA,Nigeria,0.4,2011
+974,NGA,Nigeria,0.4,2012
+975,NGA,Nigeria,0.5,2013
+976,NGA,Nigeria,0.5,2014
+977,NGA,Nigeria,0.5,2015
+978,NGA,Nigeria,0.5,2016
+979,NGA,Nigeria,0.5,2017
+980,NIC,Nicaragua,0.8,2007
+981,NIC,Nicaragua,0.7,2008
+982,NIC,Nicaragua,0.7,2009
+983,NIC,Nicaragua,0.7,2010
+984,NIC,Nicaragua,0.8,2011
+985,NIC,Nicaragua,0.8,2012
+986,NIC,Nicaragua,0.7,2013
+987,NIC,Nicaragua,0.8,2014
+988,NIC,Nicaragua,0.8,2015
+989,NIC,Nicaragua,0.8,2016
+990,NIC,Nicaragua,0.8,2017
+991,NLD,Netherlands,10,2007
+992,NLD,Netherlands,10,2008
+993,NLD,Netherlands,9.7,2009
+994,NLD,Netherlands,10.3,2010
+995,NLD,Netherlands,9.5,2011
+996,NLD,Netherlands,9.4,2012
+997,NLD,Netherlands,9.3,2013
+998,NLD,Netherlands,8.9,2014
+999,NLD,Netherlands,9.3,2015
+1000,NLD,Netherlands,9.3,2016
+1001,NLD,Netherlands,9.1,2017
+1002,NOR,Norway,7.7,2007
+1003,NOR,Norway,7.4,2008
+1004,NOR,Norway,7.4,2009
+1005,NOR,Norway,7.6,2010
+1006,NOR,Norway,7.3,2011
+1007,NOR,Norway,7.2,2012
+1008,NOR,Norway,7,2013
+1009,NOR,Norway,6.9,2014
+1010,NOR,Norway,6.9,2015
+1011,NOR,Norway,6.7,2016
+1012,NOR,Norway,6.6,2017
+1013,NPL,Nepal,0.1,2007
+1014,NPL,Nepal,0.1,2008
+1015,NPL,Nepal,0.1,2009
+1016,NPL,Nepal,0.2,2010
+1017,NPL,Nepal,0.2,2011
+1018,NPL,Nepal,0.2,2012
+1019,NPL,Nepal,0.2,2013
+1020,NPL,Nepal,0.2,2014
+1021,NPL,Nepal,0.2,2015
+1022,NPL,Nepal,0.3,2016
+1023,NPL,Nepal,0.3,2017
+1024,NZL,New Zealand,7.7,2007
+1025,NZL,New Zealand,7.8,2008
+1026,NZL,New Zealand,7.1,2009
+1027,NZL,New Zealand,7,2010
+1028,NZL,New Zealand,6.7,2011
+1029,NZL,New Zealand,7.1,2012
+1030,NZL,New Zealand,6.9,2013
+1031,NZL,New Zealand,6.9,2014
+1032,NZL,New Zealand,6.7,2015
+1033,NZL,New Zealand,6.4,2016
+1034,NZL,New Zealand,6.7,2017
+1035,OMN,Oman,13.9,2007
+1036,OMN,Oman,13.1,2008
+1037,OMN,Oman,13.4,2009
+1038,OMN,Oman,13.9,2010
+1039,OMN,Oman,15.1,2011
+1040,OMN,Oman,15.7,2012
+1041,OMN,Oman,15.2,2013
+1042,OMN,Oman,15.1,2014
+1043,OMN,Oman,15.2,2015
+1044,OMN,Oman,14.3,2016
+1045,OMN,Oman,14.1,2017
+1046,PAK,Pakistan,0.9,2007
+1047,PAK,Pakistan,0.8,2008
+1048,PAK,Pakistan,0.8,2009
+1049,PAK,Pakistan,0.8,2010
+1050,PAK,Pakistan,0.8,2011
+1051,PAK,Pakistan,0.7,2012
+1052,PAK,Pakistan,0.7,2013
+1053,PAK,Pakistan,0.8,2014
+1054,PAK,Pakistan,0.8,2015
+1055,PAK,Pakistan,0.9,2016
+1056,PAK,Pakistan,0.9,2017
+1057,PAN,Panama,2,2007
+1058,PAN,Panama,1.9,2008
+1059,PAN,Panama,2.2,2009
+1060,PAN,Panama,2.4,2010
+1061,PAN,Panama,2.6,2011
+1062,PAN,Panama,2.6,2012
+1063,PAN,Panama,2.6,2013
+1064,PAN,Panama,2.7,2014
+1065,PAN,Panama,2.5,2015
+1066,PAN,Panama,2.5,2016
+1067,PAN,Panama,2.3,2017
+1068,PER,Peru,1.1,2007
+1069,PER,Peru,1.2,2008
+1070,PER,Peru,1.3,2009
+1071,PER,Peru,1.4,2010
+1072,PER,Peru,1.5,2011
+1073,PER,Peru,1.5,2012
+1074,PER,Peru,1.5,2013
+1075,PER,Peru,1.6,2014
+1076,PER,Peru,1.6,2015
+1077,PER,Peru,1.6,2016
+1078,PER,Peru,1.5,2017
+1079,PHL,Philippines,0.8,2007
+1080,PHL,Philippines,0.8,2008
+1081,PHL,Philippines,0.8,2009
+1082,PHL,Philippines,0.8,2010
+1083,PHL,Philippines,0.8,2011
+1084,PHL,Philippines,0.8,2012
+1085,PHL,Philippines,0.9,2013
+1086,PHL,Philippines,1,2014
+1087,PHL,Philippines,1,2015
+1088,PHL,Philippines,1.1,2016
+1089,PHL,Philippines,1.2,2017
+1090,POL,Poland,8,2007
+1091,POL,Poland,7.9,2008
+1092,POL,Poland,7.6,2009
+1093,POL,Poland,8,2010
+1094,POL,Poland,7.9,2011
+1095,POL,Poland,7.7,2012
+1096,POL,Poland,7.6,2013
+1097,POL,Poland,7.3,2014
+1098,POL,Poland,7.4,2015
+1099,POL,Poland,7.6,2016
+1100,POL,Poland,8,2017
+1101,PRK,North Korea,2.6,2007
+1102,PRK,North Korea,2.9,2008
+1103,PRK,North Korea,2.2,2009
+1104,PRK,North Korea,2,2010
+1105,PRK,North Korea,1.4,2011
+1106,PRK,North Korea,1.5,2012
+1107,PRK,North Korea,1,2013
+1108,PRK,North Korea,1.1,2014
+1109,PRK,North Korea,0.9,2015
+1110,PRK,North Korea,1,2016
+1111,PRK,North Korea,0.8,2017
+1112,PRT,Portugal,5.2,2007
+1113,PRT,Portugal,5,2008
+1114,PRT,Portugal,5,2009
+1115,PRT,Portugal,4.5,2010
+1116,PRT,Portugal,4.5,2011
+1117,PRT,Portugal,4.3,2012
+1118,PRT,Portugal,4.2,2013
+1119,PRT,Portugal,4.1,2014
+1120,PRT,Portugal,4.5,2015
+1121,PRT,Portugal,4.5,2016
+1122,PRT,Portugal,4.9,2017
+1123,PRY,Paraguay,0.6,2007
+1124,PRY,Paraguay,0.7,2008
+1125,PRY,Paraguay,0.7,2009
+1126,PRY,Paraguay,0.8,2010
+1127,PRY,Paraguay,0.8,2011
+1128,PRY,Paraguay,0.8,2012
+1129,PRY,Paraguay,0.8,2013
+1130,PRY,Paraguay,0.8,2014
+1131,PRY,Paraguay,0.9,2015
+1132,PRY,Paraguay,1,2016
+1133,PRY,Paraguay,1.1,2017
+1134,QAT,Qatar,37,2007
+1135,QAT,Qatar,33.8,2008
+1136,QAT,Qatar,30.2,2009
+1137,QAT,Qatar,31.2,2010
+1138,QAT,Qatar,32,2011
+1139,QAT,Qatar,33,2012
+1140,QAT,Qatar,31.7,2013
+1141,QAT,Qatar,32.3,2014
+1142,QAT,Qatar,31.3,2015
+1143,QAT,Qatar,30.8,2016
+1144,QAT,Qatar,30.4,2017
+1145,ROU,Romania,4.4,2007
+1146,ROU,Romania,4.4,2008
+1147,ROU,Romania,3.8,2009
+1148,ROU,Romania,3.7,2010
+1149,ROU,Romania,4,2011
+1150,ROU,Romania,3.9,2012
+1151,ROU,Romania,3.5,2013
+1152,ROU,Romania,3.4,2014
+1153,ROU,Romania,3.5,2015
+1154,ROU,Romania,3.5,2016
+1155,ROU,Romania,3.6,2017
+1156,RUS,Russia,10.7,2007
+1157,RUS,Russia,10.9,2008
+1158,RUS,Russia,10.1,2009
+1159,RUS,Russia,10.7,2010
+1160,RUS,Russia,11.2,2011
+1161,RUS,Russia,11.2,2012
+1162,RUS,Russia,10.9,2013
+1163,RUS,Russia,10.8,2014
+1164,RUS,Russia,10.6,2015
+1165,RUS,Russia,10.5,2016
+1166,RUS,Russia,10.6,2017
+1167,SAU,Saudi Arabia,13.2,2007
+1168,SAU,Saudi Arabia,14,2008
+1169,SAU,Saudi Arabia,14.2,2009
+1170,SAU,Saudi Arabia,15.3,2010
+1171,SAU,Saudi Arabia,15.4,2011
+1172,SAU,Saudi Arabia,15.9,2012
+1173,SAU,Saudi Arabia,15.7,2013
+1174,SAU,Saudi Arabia,16.5,2014
+1175,SAU,Saudi Arabia,16.8,2015
+1176,SAU,Saudi Arabia,16.3,2016
+1177,SAU,Saudi Arabia,16.2,2017
+1178,SDN,Sudan,0.3,2007
+1179,SDN,Sudan,0.3,2008
+1180,SDN,Sudan,0.3,2009
+1181,SDN,Sudan,0.3,2010
+1182,SDN,Sudan,0.3,2011
+1183,SDN,Sudan,0.4,2012
+1184,SDN,Sudan,0.4,2013
+1185,SDN,Sudan,0.4,2014
+1186,SDN,Sudan,0.4,2015
+1187,SDN,Sudan,0.5,2016
+1188,SDN,Sudan,0.5,2017
+1189,SEN,Senegal,0.4,2007
+1190,SEN,Senegal,0.4,2008
+1191,SEN,Senegal,0.4,2009
+1192,SEN,Senegal,0.4,2010
+1193,SEN,Senegal,0.4,2011
+1194,SEN,Senegal,0.4,2012
+1195,SEN,Senegal,0.4,2013
+1196,SEN,Senegal,0.5,2014
+1197,SEN,Senegal,0.5,2015
+1198,SEN,Senegal,0.5,2016
+1199,SEN,Senegal,0.5,2017
+1200,SGP,Singapore,8.3,2007
+1201,SGP,Singapore,7.9,2008
+1202,SGP,Singapore,7.8,2009
+1203,SGP,Singapore,8.4,2010
+1204,SGP,Singapore,8.6,2011
+1205,SGP,Singapore,8.2,2012
+1206,SGP,Singapore,8.1,2013
+1207,SGP,Singapore,8.1,2014
+1208,SGP,Singapore,8.2,2015
+1209,SGP,Singapore,8.2,2016
+1210,SGP,Singapore,8.4,2017
+1211,SLV,El Salvador,1.1,2007
+1212,SLV,El Salvador,1,2008
+1213,SLV,El Salvador,1,2009
+1214,SLV,El Salvador,0.9,2010
+1215,SLV,El Salvador,1,2011
+1216,SLV,El Salvador,1,2012
+1217,SLV,El Salvador,0.9,2013
+1218,SLV,El Salvador,0.9,2014
+1219,SLV,El Salvador,1,2015
+1220,SLV,El Salvador,1,2016
+1221,SLV,El Salvador,0.9,2017
+1222,SRB,Serbia,6.9,2007
+1223,SRB,Serbia,6.8,2008
+1224,SRB,Serbia,6.3,2009
+1225,SRB,Serbia,6.3,2010
+1226,SRB,Serbia,6.9,2011
+1227,SRB,Serbia,6.2,2012
+1228,SRB,Serbia,6.3,2013
+1229,SRB,Serbia,5.3,2014
+1230,SRB,Serbia,6.3,2015
+1231,SRB,Serbia,6.4,2016
+1232,SRB,Serbia,6.6,2017
+1233,SVK,Slovakia,6.6,2007
+1234,SVK,Slovakia,6.6,2008
+1235,SVK,Slovakia,6,2009
+1236,SVK,Slovakia,6.4,2010
+1237,SVK,Slovakia,6.1,2011
+1238,SVK,Slovakia,5.8,2012
+1239,SVK,Slovakia,5.9,2013
+1240,SVK,Slovakia,5.4,2014
+1241,SVK,Slovakia,5.4,2015
+1242,SVK,Slovakia,5.6,2016
+1243,SVK,Slovakia,5.9,2017
+1244,SVN,Slovenia,7.8,2007
+1245,SVN,Slovenia,8.3,2008
+1246,SVN,Slovenia,7.4,2009
+1247,SVN,Slovenia,7.5,2010
+1248,SVN,Slovenia,7.5,2011
+1249,SVN,Slovenia,7.2,2012
+1250,SVN,Slovenia,6.9,2013
+1251,SVN,Slovenia,6.2,2014
+1252,SVN,Slovenia,6.2,2015
+1253,SVN,Slovenia,6.6,2016
+1254,SVN,Slovenia,6.5,2017
+1255,SWE,Sweden,4.9,2007
+1256,SWE,Sweden,4.7,2008
+1257,SWE,Sweden,4.4,2009
+1258,SWE,Sweden,4.9,2010
+1259,SWE,Sweden,4.5,2011
+1260,SWE,Sweden,4.1,2012
+1261,SWE,Sweden,3.9,2013
+1262,SWE,Sweden,3.8,2014
+1263,SWE,Sweden,3.8,2015
+1264,SWE,Sweden,3.8,2016
+1265,SWE,Sweden,3.7,2017
+1266,SYR,Syrian Arab Republic,3.1,2007
+1267,SYR,Syrian Arab Republic,3,2008
+1268,SYR,Syrian Arab Republic,2.7,2009
+1269,SYR,Syrian Arab Republic,2.7,2010
+1270,SYR,Syrian Arab Republic,2.6,2011
+1271,SYR,Syrian Arab Republic,2.1,2012
+1272,SYR,Syrian Arab Republic,1.5,2013
+1273,SYR,Syrian Arab Republic,1.3,2014
+1274,SYR,Syrian Arab Republic,1.3,2015
+1275,SYR,Syrian Arab Republic,1.3,2016
+1276,SYR,Syrian Arab Republic,1.3,2017
+1277,TGO,Togo,0.1,2007
+1278,TGO,Togo,0.2,2008
+1279,TGO,Togo,0.4,2009
+1280,TGO,Togo,0.3,2010
+1281,TGO,Togo,0.3,2011
+1282,TGO,Togo,0.2,2012
+1283,TGO,Togo,0.2,2013
+1284,TGO,Togo,0.3,2014
+1285,TGO,Togo,0.3,2015
+1286,TGO,Togo,0.3,2016
+1287,TGO,Togo,0.3,2017
+1288,THA,Thailand,3.2,2007
+1289,THA,Thailand,3.2,2008
+1290,THA,Thailand,3.1,2009
+1291,THA,Thailand,3.3,2010
+1292,THA,Thailand,3.3,2011
+1293,THA,Thailand,3.5,2012
+1294,THA,Thailand,3.6,2013
+1295,THA,Thailand,3.6,2014
+1296,THA,Thailand,3.6,2015
+1297,THA,Thailand,3.5,2016
+1298,THA,Thailand,3.5,2017
+1299,TJK,Tajikistan,0.4,2007
+1300,TJK,Tajikistan,0.4,2008
+1301,TJK,Tajikistan,0.3,2009
+1302,TJK,Tajikistan,0.3,2010
+1303,TJK,Tajikistan,0.3,2011
+1304,TJK,Tajikistan,0.4,2012
+1305,TJK,Tajikistan,0.4,2013
+1306,TJK,Tajikistan,0.5,2014
+1307,TJK,Tajikistan,0.5,2015
+1308,TJK,Tajikistan,0.6,2016
+1309,TJK,Tajikistan,0.7,2017
+1310,TKM,Turkmenistan,11.5,2007
+1311,TKM,Turkmenistan,11.4,2008
+1312,TKM,Turkmenistan,10,2009
+1313,TKM,Turkmenistan,11.2,2010
+1314,TKM,Turkmenistan,11.9,2011
+1315,TKM,Turkmenistan,12.2,2012
+1316,TKM,Turkmenistan,12.2,2013
+1317,TKM,Turkmenistan,12.3,2014
+1318,TKM,Turkmenistan,12.4,2015
+1319,TKM,Turkmenistan,12.2,2016
+1320,TKM,Turkmenistan,12,2017
+1321,TTO,Trinidad and Tobago,16.3,2007
+1322,TTO,Trinidad and Tobago,16.1,2008
+1323,TTO,Trinidad and Tobago,15,2009
+1324,TTO,Trinidad and Tobago,16.5,2010
+1325,TTO,Trinidad and Tobago,16.3,2011
+1326,TTO,Trinidad and Tobago,16.1,2012
+1327,TTO,Trinidad and Tobago,16.5,2013
+1328,TTO,Trinidad and Tobago,17,2014
+1329,TTO,Trinidad and Tobago,15.6,2015
+1330,TTO,Trinidad and Tobago,12.8,2016
+1331,TTO,Trinidad and Tobago,13.2,2017
+1332,TUN,Tunisia,2,2007
+1333,TUN,Tunisia,2,2008
+1334,TUN,Tunisia,2,2009
+1335,TUN,Tunisia,2.2,2010
+1336,TUN,Tunisia,2.1,2011
+1337,TUN,Tunisia,2.2,2012
+1338,TUN,Tunisia,2.1,2013
+1339,TUN,Tunisia,2.2,2014
+1340,TUN,Tunisia,2.3,2015
+1341,TUN,Tunisia,2.2,2016
+1342,TUN,Tunisia,2.3,2017
+1343,TUR,Turkey,3.8,2007
+1344,TUR,Turkey,3.7,2008
+1345,TUR,Turkey,3.6,2009
+1346,TUR,Turkey,3.7,2010
+1347,TUR,Turkey,3.9,2011
+1348,TUR,Turkey,4,2012
+1349,TUR,Turkey,3.7,2013
+1350,TUR,Turkey,4,2014
+1351,TUR,Turkey,4.1,2015
+1352,TUR,Turkey,4.3,2016
+1353,TUR,Turkey,4.7,2017
+1354,TWN,Taiwan,11.6,2007
+1355,TWN,Taiwan,11.1,2008
+1356,TWN,Taiwan,10.5,2009
+1357,TWN,Taiwan,11.1,2010
+1358,TWN,Taiwan,11,2011
+1359,TWN,Taiwan,10.6,2012
+1360,TWN,Taiwan,10.7,2013
+1361,TWN,Taiwan,10.7,2014
+1362,TWN,Taiwan,10.7,2015
+1363,TWN,Taiwan,10.9,2016
+1364,TWN,Taiwan,11.4,2017
+1365,TZA,Tanzania,0.1,2007
+1366,TZA,Tanzania,0.1,2008
+1367,TZA,Tanzania,0.1,2009
+1368,TZA,Tanzania,0.1,2010
+1369,TZA,Tanzania,0.2,2011
+1370,TZA,Tanzania,0.2,2012
+1371,TZA,Tanzania,0.2,2013
+1372,TZA,Tanzania,0.2,2014
+1373,TZA,Tanzania,0.2,2015
+1374,TZA,Tanzania,0.2,2016
+1375,TZA,Tanzania,0.2,2017
+1376,UKR,Ukraine,6.6,2007
+1377,UKR,Ukraine,6.4,2008
+1378,UKR,Ukraine,5.4,2009
+1379,UKR,Ukraine,5.8,2010
+1380,UKR,Ukraine,6.1,2011
+1381,UKR,Ukraine,6,2012
+1382,UKR,Ukraine,5.8,2013
+1383,UKR,Ukraine,5.2,2014
+1384,UKR,Ukraine,4.2,2015
+1385,UKR,Ukraine,4.4,2016
+1386,UKR,Ukraine,3.8,2017
+1387,URY,Uruguay,1.7,2007
+1388,URY,Uruguay,2.2,2008
+1389,URY,Uruguay,2.2,2009
+1390,URY,Uruguay,1.8,2010
+1391,URY,Uruguay,2.1,2011
+1392,URY,Uruguay,2.4,2012
+1393,URY,Uruguay,2.1,2013
+1394,URY,Uruguay,1.8,2014
+1395,URY,Uruguay,1.9,2015
+1396,URY,Uruguay,1.8,2016
+1397,URY,Uruguay,1.7,2017
+1398,USA,United States,18.8,2007
+1399,USA,United States,18.1,2008
+1400,USA,United States,16.7,2009
+1401,USA,United States,17.3,2010
+1402,USA,United States,16.4,2011
+1403,USA,United States,15.6,2012
+1404,USA,United States,15.9,2013
+1405,USA,United States,15.8,2014
+1406,USA,United States,15.3,2015
+1407,USA,United States,14.9,2016
+1408,USA,United States,14.6,2017
+1409,UZB,Uzbekistan,4.1,2007
+1410,UZB,Uzbekistan,4.2,2008
+1411,UZB,Uzbekistan,3.7,2009
+1412,UZB,Uzbekistan,3.5,2010
+1413,UZB,Uzbekistan,3.8,2011
+1414,UZB,Uzbekistan,3.8,2012
+1415,UZB,Uzbekistan,3.4,2013
+1416,UZB,Uzbekistan,3.4,2014
+1417,UZB,Uzbekistan,2.9,2015
+1418,UZB,Uzbekistan,2.6,2016
+1419,UZB,Uzbekistan,2.5,2017
+1420,VEN,Venezuela,4.7,2007
+1421,VEN,Venezuela,5.7,2008
+1422,VEN,Venezuela,5.6,2009
+1423,VEN,Venezuela,5.9,2010
+1424,VEN,Venezuela,4.9,2011
+1425,VEN,Venezuela,5.5,2012
+1426,VEN,Venezuela,5,2013
+1427,VEN,Venezuela,4.9,2014
+1428,VEN,Venezuela,4.5,2015
+1429,VEN,Venezuela,4,2016
+1430,VEN,Venezuela,3.6,2017
+1431,VNM,Vietnam,1,2007
+1432,VNM,Vietnam,1.2,2008
+1433,VNM,Vietnam,1.3,2009
+1434,VNM,Vietnam,1.4,2010
+1435,VNM,Vietnam,1.4,2011
+1436,VNM,Vietnam,1.4,2012
+1437,VNM,Vietnam,1.4,2013
+1438,VNM,Vietnam,1.6,2014
+1439,VNM,Vietnam,2,2015
+1440,VNM,Vietnam,2,2016
+1441,VNM,Vietnam,2,2017
+1442,YEM,Yemen,0.9,2007
+1443,YEM,Yemen,1,2008
+1444,YEM,Yemen,1,2009
+1445,YEM,Yemen,0.9,2010
+1446,YEM,Yemen,0.8,2011
+1447,YEM,Yemen,0.7,2012
+1448,YEM,Yemen,1,2013
+1449,YEM,Yemen,0.9,2014
+1450,YEM,Yemen,0.4,2015
+1451,YEM,Yemen,0.3,2016
+1452,YEM,Yemen,0.3,2017
+1453,ZAF,South Africa,7.8,2007
+1454,ZAF,South Africa,8.4,2008
+1455,ZAF,South Africa,7.8,2009
+1456,ZAF,South Africa,8.1,2010
+1457,ZAF,South Africa,7.7,2011
+1458,ZAF,South Africa,7.9,2012
+1459,ZAF,South Africa,8,2013
+1460,ZAF,South Africa,8.1,2014
+1461,ZAF,South Africa,7.6,2015
+1462,ZAF,South Africa,7.5,2016
+1463,ZAF,South Africa,7.4,2017
+1464,ZMB,Zambia,0.1,2007
+1465,ZMB,Zambia,0.1,2008
+1466,ZMB,Zambia,0.1,2009
+1467,ZMB,Zambia,0.1,2010
+1468,ZMB,Zambia,0.1,2011
+1469,ZMB,Zambia,0.2,2012
+1470,ZMB,Zambia,0.2,2013
+1471,ZMB,Zambia,0.2,2014
+1472,ZMB,Zambia,0.2,2015
+1473,ZMB,Zambia,0.2,2016
+1474,ZMB,Zambia,0.4,2017
+1475,ZWE,Zimbabwe,0.7,2007
+1476,ZWE,Zimbabwe,0.5,2008
+1477,ZWE,Zimbabwe,0.5,2009
+1478,ZWE,Zimbabwe,0.7,2010
+1479,ZWE,Zimbabwe,0.8,2011
+1480,ZWE,Zimbabwe,0.8,2012
+1481,ZWE,Zimbabwe,0.8,2013
+1482,ZWE,Zimbabwe,0.8,2014
+1483,ZWE,Zimbabwe,0.7,2015
+1484,ZWE,Zimbabwe,0.6,2016
+1485,ZWE,Zimbabwe,0.6,2017
